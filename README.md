@@ -8,8 +8,6 @@ Language Converter is a web-based tool that allows users to translate text from 
 
 - **Language Selection**: Choose from a wide range of languages for both source and target texts.
 - **Translation**: Instantly translate text between selected languages using the Google Translate API.
-- **Character and Word Count**: Displays total words, total characters, and characters excluding spaces for both source and translated texts.
-- **Save and Print**: Save translated text as plain text (.txt) or MS Word (.doc) files. Print directly from the web interface.
 - **Dark Mode**: Toggle between light and dark themes for better readability.
 
 ## Languages Supported
