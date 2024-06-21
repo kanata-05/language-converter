@@ -1,0 +1,79 @@
+/* If you use this code, with or without modifications, please credit the creator kanata-05
+https://www.github.com/kanata-05/language-converter
+This code is licensed under the CC-BY 3.0 License. */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #222; /* Dark background color */
+    color: #eee; /* Light text color */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: #333; /* Slightly lighter background */
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 80%;
+    max-width: 600px;
+    padding: 20px;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-container {
+    padding: 10px;
+}
+
+.input-group {
+    margin-bottom: 15px;
+}
+
+label {
+    font-weight: bold;
+}
+
+select, textarea {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #555; /* Darker border */
+    background-color: #444; /* Darker background */
+    color: #eee; /* Light text color */
+    border-radius: 4px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff; /* Primary color for button */
+    color: #fff; /* Text color for button */
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0056b3; /* Darker hover color */
+}
+
+textarea {
+    resize: vertical;
+    background-color: #555; /* Darker textarea background */
+}
+
+.output-group {
+    margin-top: 20px;
+}
+
+
