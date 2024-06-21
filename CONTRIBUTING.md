@@ -40,10 +40,6 @@ To contribute to the Language Converter project, follow these steps:
 
 10. **Celebrate**: Your contribution will be reviewed and merged into the main repository once approved. Thank you for your contribution!
 
-## Code of Conduct
-
-Please note that we have a [Code of Conduct](CODE_OF_CONDUCT.md) that governs participation in this project. Ensure all interactions adhere to this code to foster a positive and inclusive community.
-
 ## Reporting Issues
 
 If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/kanata-05/language-converter/issues/new) on GitHub. Provide as much detail as possible to help us understand and address the problem.
