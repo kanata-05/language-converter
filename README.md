@@ -51,15 +51,11 @@ To run the Language Converter locally:
 
 ## Contributing
 
-Contributions are welcome! Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) file for details on how to contribute to this project.
-
-## Code of Conduct
-
-Please adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md) to foster an inclusive and respectful community.
+Contributions are welcome! Please read the [CONTRIBUTING.md](./Legal Bullshit/CONTRIBUTING.md) file for details on how to contribute to this project
 
 ## License
 
-This project is licensed under the [CC-BY 3.0 License](./LICENSE).
+This project is licensed under the [CC-BY 3.0 License](./Legal Bullshit/LICENSE).
 
 ## Contact
 
